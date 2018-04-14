@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1523651130 source:c:\users\redfire\desktop\programacion\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lib.h"
+
+1523651117 source:c:\users\redfire\desktop\programacion\calculadora\lib.c
+
+1523647225 c:\users\redfire\desktop\programacion\calculadora\lib.h
+
+1523346771 c:\users\redfire\desktop\programacion\calculadora\lib.c
+
+1523651117 source:c:\programacion\calculadora\lib.c
+
+1523651746 source:c:\programacion\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lib.h"
+
+1523647225 c:\programacion\calculadora\lib.h
+
+1523652333 source:c:\programacion\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lib.h"
+
+1523647225 c:\programacion\tp1\lib.h
+
+1523656190 source:c:\programacion\tp1\lib.c
+
